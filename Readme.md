@@ -13,6 +13,8 @@ All appointments shown to both (Users & admins) will show date, client contact d
 
 I post Barber's Lumina webapp on heroku, so you can join as a user and test the app creating your own account or use this as user example:
 
+Url: https://obscure-lowlands-28552.herokuapp.com/
+
 email: user@user.com
 pass: 123456aB
 
